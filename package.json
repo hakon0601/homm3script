@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "fs": "0.0.1-security",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "robotjs": "^0.5.1",
     "serialport": "^7.1.5"
   }
